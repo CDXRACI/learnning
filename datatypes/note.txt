@@ -1,0 +1,13 @@
+!c datatypes and c++ as same.
+int(c++)( 2/4 bytes )  -> int16_t / int32_t                   | -32.768 -> 32.767  (2bytes)
+							      | -2.147.483.648 -> 2.147.483.647 ( 4 bytes )
+short(c++)             -> uint16_t
+bool ( true, false )   -> #include <stdbool.h>
+float ( c++ ) 4bytes  <=>
+double ( c++ ) 8bytes <=>
+long ( c++ ) 4 bytes  <=>
+long double ( c++ )   <=>
+string ""              -> #include < stdstring.h>
+char ( c++ )  1byte   <=>
+
+
