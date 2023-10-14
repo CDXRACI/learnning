@@ -1,0 +1,2 @@
+Var: <=> as same as var in C
+Const: <=> as same as const in C
