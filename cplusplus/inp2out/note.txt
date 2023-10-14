@@ -1,0 +1,3 @@
+@as same as c which have: cin <=> scanf
+                          cout<=> printf
+- but in fact, c++ doesn't need %. to scan or print  data.
