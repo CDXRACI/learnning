@@ -1,0 +1,23 @@
+as same as c!
+    1: +,-,++a,a++,--a,a--
+    2 ( TTSH ): +,-,*,/,%
+    ex: 2%3 = 2
+        2/3 = 0
+    2  ( TTSHG ): += , -=, *= , /= , %=
+    2  ( TTQH  ): > , < , >= , <= , != , ==
+    @if true return true
+    @if false return false
+    2  ( TTLOGIC ): && , !, ||
+    @ if true return true
+    @ if false return false
+    2: ( TTOB ): << , >> , ~, & ,| , ^
+    2: ( TTOBG ): =<< , >>= , ~= ,&= , |= , ^=
+*** 
+    another arith2operator:
+    @sizeof() return byte of variables
+                            -> datatypes
+    @ ( a , b ) -> implement a, return b
+    @ ?: 
+    ex: ( a > b) ? a: b;
+***
+    caryfully, () prority of () is always set highest.
