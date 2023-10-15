@@ -217,24 +217,30 @@ CM3: git switch –c <branch's name>// create and switch to branch from latest c
     To restore all folders inside working folder. 
 
 CM1: git restore .  // restore all files 
-
 CM2: git restore file 
-
 CM3: git restore –stage file // remove file in stage 
 
  
 
 @git branch: 
-
+    git branh < new branch >
+    git branch 
     Git branch –a // check all branches on repo 
 
  
 
 @git fetch 
-
- 
+    pull data from local but not merge 
+    git fetch
+    git merge 
 
 @git merge 
+    merge data from one branch to another branch
+    git merge
+
+@git pull
+    pull data and merge automotically.
+    git pull
 
  
 
