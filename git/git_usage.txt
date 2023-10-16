@@ -252,11 +252,36 @@ CM3: git restore –stage file // remove file in stage
 
     git pull --all
 
-
-
+@git rebase
+    The commits will be consecutive, not cut and merged like git merge
+    to do:
+    git checkout <s1>
+    git rebase <s2> // merge s1 to s2
+    analize:
+        cm1 cm2 (s1 )
+        cm3 cm4 ( s2) *rebase*
+        cm1 cm2 cm3 cm4 ( merge s1 to s2)
+    reason: cm1 cm2 will set base of cm3 cm4 and git merge doesn't.
+    they will merge directly.
+    if ( used to git merge)
+      {    cm1 cm2 ( s1 )
+   s0 {    cm3 cm4 ( s2 )
+         git merge
+      s0 
 @git remote –v:  
 
     To check address of remote repository. 
+
+@git submodule
+    git submodule used to when they has large file
+
+@git ignore 
+    ignore somefiles.
+    to do:
+    touch .gitignore
+    .log # ignore log file
+    ./dir/ # ignore folder
+    ./name # file  
 
  
 
