@@ -245,6 +245,15 @@ CM3: git restore –stage file // remove file in stage
 
     git pull --all
 
+@git ignore
+    ignore files that won't push to remote
+    touch .gitignore
+    with file.txt
+    git rm --cache file
+    with folder
+    /folder/
+    with file
+    file.<s>
 
 
 @git remote –v:  
