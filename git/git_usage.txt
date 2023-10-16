@@ -145,8 +145,7 @@ Q: quit
 (n): go to search above 
 
 (N): go to search bellow 
- CM5: git log --oneline origin/master // check log on repo
- CM6: git log --oneline master        #  check log on local
+
  
 
  
@@ -232,19 +231,13 @@ CM3: git restore –stage file // remove file in stage
 
 @git fetch 
     pull data from local but not merge 
-    git fetch  
-    git fetch < branch >
-    git fetch --all
+    git fetch
     git merge 
-    git merge --all
 
 @git merge 
     merge data from one branch to another branch
     git merge
-    git merge origin/master # don't need internet to merge because previous data were pulled down to local
-    if want merge from one repo to another repo
-    git checkout <b1>
-    git merge < b2 > # merge b1 to b2 
+
 @git pull
     pull data and merge automotically.
     git pull
@@ -252,36 +245,11 @@ CM3: git restore –stage file // remove file in stage
 
     git pull --all
 
-@git rebase
-    The commits will be consecutive, not cut and merged like git merge
-    to do:
-    git checkout <s1>
-    git rebase <s2> // merge s1 to s2
-    analize:
-        cm1 cm2 (s1 )
-        cm3 cm4 ( s2) *rebase*
-        cm1 cm2 cm3 cm4 ( merge s1 to s2)
-    reason: cm1 cm2 will set base of cm3 cm4 and git merge doesn't.
-    they will merge directly.
-    if ( used to git merge)
-      {    cm1 cm2 ( s1 )
-   s0 {    cm3 cm4 ( s2 )
-         git merge
-      s0 
+
+
 @git remote –v:  
 
     To check address of remote repository. 
-
-@git submodule
-    git submodule used to when they has large file
-
-@git ignore 
-    ignore somefiles.
-    to do:
-    touch .gitignore
-    .log # ignore log file
-    ./dir/ # ignore folder
-    ./name # file  
 
  
 
