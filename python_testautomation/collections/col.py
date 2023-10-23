@@ -17,3 +17,5 @@ confis = {
 print(confis.get("aut"))
 for var1 in confis.values():
     print(var1)
+if "var1" in confis:
+    print("Exist")
