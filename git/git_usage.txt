@@ -260,6 +260,7 @@ CM3: git restore –stage file // remove file in stage
 
     To check address of remote repository. 
 
- 
+ @git rm -f --cache <file>
+remove file was added by git add
 
   
