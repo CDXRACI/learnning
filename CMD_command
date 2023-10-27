@@ -20,4 +20,12 @@
     11.1 color <> ex color 3
 12. find password: for /f "skip=9 tokens=1,2 delims=:" %i in ('netsh wlan show profiles') do @echo %j | findstr -i -v echo | netsh wlan show profiles %j key=clear
 13. dir # list iten in a dir
-14. del <>  del a file
+14. del <> # del a file
+15. mkdir # mkdir a folder
+16. rmdir # remove/del a folder
+17. CTRL + C # stops the execution of a command
+18. echo "" # print
+  18.1    echo "content" > file.txt # creat a file 
+19. more # show more information or the content of a file
+20. move # moves a file or folder to a specifieced folder
+21. ren <1> <2> # rename
