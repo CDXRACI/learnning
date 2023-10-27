@@ -1,1 +1,11 @@
+1. ipconfig # find your ip v4 and default gateway
+2. ipconfig /all find all concfig on network
+3. chdir or cd # changing directory to another dir
+4. systeminfo # list your's PC
+5. set # set enviroment 
+  5.1:
+  
+  5.2:
+
+  5.3:
 
