@@ -4,8 +4,10 @@
 4. systeminfo # list your's PC
 5. set # set enviroment 
   5.1:
-  
+    set varname
+    or
+    echo %varname%
   5.2:
-
+    set varname=value
   5.3:
-
+    set varname=
