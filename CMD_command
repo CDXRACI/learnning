@@ -29,3 +29,7 @@
 19. more # show more information or the content of a file
 20. move # moves a file or folder to a specifieced folder
 21. ren <1> <2> # rename
+22. exit # close the command line
+23. shutdown 
+24. CTRL + C #   stop the executiion of a command
+25. -help
