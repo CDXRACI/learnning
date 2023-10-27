@@ -11,3 +11,13 @@
     set varname=value
   5.3:
     set varname=
+6. driverquery #Lists All Installed Drivers
+7. systeminfo # show your PC's Details
+8. fc "file1.txt" "file2.txt"  #comparws 2 similar files
+9. netstat -an # shows open ports.
+10. ping "address"
+11. color attr #change color
+    11.1 color <> ex color 3
+12. find password: for /f "skip=9 tokens=1,2 delims=:" %i in ('netsh wlan show profiles') do @echo %j | findstr -i -v echo | netsh wlan show profiles %j key=clear
+13. dir # list iten in a dir
+14. del <>  del a file
