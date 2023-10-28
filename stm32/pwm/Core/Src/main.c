@@ -91,12 +91,13 @@ int main(void)
   /* USER CODE BEGIN 2 */
 
   /* USER CODE END 2 */
-
+ HAL_TIM_PWM_Start (& htim1, TIM_CHANNEL_1);
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   while (1)
   {
     /* USER CODE END WHILE */
+    __HAL_TIM_SET_COMPARE (& htim1, TIM_CHANNEL_1, 250);
 
     /* USER CODE BEGIN 3 */
   }
