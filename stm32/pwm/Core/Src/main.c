@@ -97,7 +97,11 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-    __HAL_TIM_SET_COMPARE (& htim1, TIM_CHANNEL_1, 250);
+    uint16_t l_count = 2;
+    for( l_count; l_count < 255; l_count++ ){
+      __HAL_TIM_SET_COMPARE (& htim1, TIM_CHANNEL_1, l_count);
+    HAL_Delay (100);
+    }
 
     /* USER CODE BEGIN 3 */
   }
