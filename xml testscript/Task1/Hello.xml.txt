@@ -1,0 +1,23 @@
+<hello>
+	<friend>
+		<subfriend gender="male">	
+			<name> cao dai phuc&gt;</name>
+		</subfriend>
+	</friend>
+</hello>
+
+
+XML = eXentisble Markups Language
+
+in XML we use tags M< marks
+	* data and tags don't need to defined!
+XML is used to store and transport data
+BOTH HUMAN AND MACHINE CAN BE READABLE
+*-----------------------------------------------------------------*
+	AP1 ------------------------>
+	    <----------------------------------------- AP2
+*-----------------------------------------------------------------*
+
+XML Validation:
+	DTD - Document Type Definition
+	XSD - XML Schema Definition
