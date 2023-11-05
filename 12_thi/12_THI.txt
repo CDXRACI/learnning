@@ -40,11 +40,45 @@ Cach chia dong tu:
     knief -> knives
     
                                         
-2. Thi HTTD:
-
-3. Thi HTHT:
+2. Thi HTTD: #Doi voi cac thi hien tai tiep dien chi su dung voi dong  tu
+		-> noi ve 1 hanh dong dang xay ra tai thoi diem noi nhung khong nhat thiet \
+		   xay ra ngay tai thoi diem noi.
+	*V
+	+) S + TOBE + VING + O ?
+	-) S + TOBE + NOT + VING + O ?
+	!) TOBE + S + VING + O ?
+	?) WH + !) ?
+	
+	*, Trong cau co trang tu: Now, rightnow, at the moment , at the present.
+	*, V: LOOK, Keep silent, watch out...
+	chia V:
+		*) them v + ing
+		*) 1 chu e -> sang i roi + ng
+		*) 2 chu e -> giu nguyen them duoi ing
+		*) tan cung la 1 pa + na trong am roi vao am tiet cuoi -> gap doi pa roi them duoi ing
+		*) 2 am tiet tan cung la 1 pa + trc la 1 na + 1 pa gap doi pa + ing 
+		*) khong gap w, x, y!
+3. Thi HTHT: # dien ta 1 hanh dong, 1 su viec da xay ra o qua khu keo dai viec do o hien tai va co the xay \
+		ra trong tuong lai ( kinh nghiem, moi quan he, cong viec... )
+	 +) S + HAVE/HAS + PII
+	 -) S + HAVE/HAS + NOT + PII
+      	 !) HAVE/HAS + S + NOT + PII
+	 ?) WH +  !)
+	
+  	*, BEFORE, EVER, NEVER, FOR + QTG , SINCE + KTG, YET , THE FIRST ( THE SECOND )...
+	*, JUST , RECENTLY , LATELY, ALREADY
+	*, SO FAR = UNTIL NOW CHO DEN BAY GIO
+	*, YET = CHUA /CUOI CAU/
+	VI TRI:
+	*, ALREADY, NEVER, EVER , JUST SAU HAVE/HAS VA TRUOC PII
+	*, ALREADY CUNG CO THE DUNG CUOI CAU
+	*, so far, recently, lately, up to present, up to this moment, in/ for/ during/ over + the past/ last + thời gian: 
+	Có thể đứng đầu hoặc cuối câu.
+	
 
 4. Thi QKD:
+	NOI VE 1 HANH DONG XAY RA TRONG QUA VA KET THUC TRONG QUA KHU
+	
 
 5. Thi QKTD:
 
