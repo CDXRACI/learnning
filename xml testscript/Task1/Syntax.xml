@@ -4,9 +4,10 @@ Root: Must contain a root element  that is parent of all elements. #
       </sub tag >
  </Root Tags>
 
+XML Prolog: is optional and is first line. #<?xml version="1.0" encoding="UTF-8"?>
 
-
-XML Prolog: is optional and is first line. #is optional and is the first line
 Tags: All elements must have a closing tag XML tafs are case sensitive.
+
 Attributes: must be quoted
+< tag gender="X0">
 Nesting: XML Elements must be nested properly.
