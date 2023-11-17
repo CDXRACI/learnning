@@ -1,1 +1,11 @@
-c
+1. ls# list
+2. New-Item -Path 'Directory' -ItemType Directory # create a folder
+3. New-Item -Path 'Directory' -ItemType File # Creat a file
+4. Copy-Item -Path 'Directory1' 'Directory2' # Copy folder from SRC (Dir1) TO TAR (Dir2)
+5. Copy-Item -Path 'Dir1-File' 'Dir2-File' # Copy file from Dir to Tar
+6. Remove-Item 'Dir' # remove direcoty
+7. Remove-Item 'Dir' -Recurse 
+8. Move-Item 'Dir1' 'Dir2' # Moving a Folder/File to Another Directory
+9. Rename-Item 'Dir.x' name.x #file
+10. Rename-Item 'Dir1 Dir2' 
+11. Test-Path 'Dir' # checking whether path/file is still exis or del.
