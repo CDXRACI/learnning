@@ -9,3 +9,11 @@
 9. Rename-Item 'Dir.x' name.x #file
 10. Rename-Item 'Dir1 Dir2' 
 11. Test-Path 'Dir' # checking whether path/file is still exis or del.
+
+
+------------------------------------
+@File
+------------------------------------
+1. New-Item 'Dir' .txt # creating a file
+2. Set-Content 'Dir .txt' 'content' # adding data
+3. get-Content 'Dir .txt' # reading data
