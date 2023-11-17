@@ -17,4 +17,4 @@
 1. New-Item 'Dir' .txt # creating a file
 2. Set-Content 'Dir .txt' 'content' # adding data
 3. get-Content 'Dir .txt' # reading data
-4. 
+4. Clear-Content 'Dir .txt' # clear content
