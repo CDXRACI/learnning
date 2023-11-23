@@ -1,0 +1,10 @@
+1 -> install C/C++
+2 -> code runner
+3 -> gcc compile ( PATH env )
+
+1. printf("")
+ /r # return
+ /n # newline
+ /t # tab
+// command 
+/* */
