@@ -1,7 +1,10 @@
+ Command Prompt is officially called Windows Command Processor
+
 1. ipconfig # find your ip v4 and default gateway
 2. ipconfig /all find all concfig on network
 3. chdir or cd # changing directory to another dir
 4. systeminfo # list your's PC
+4.1 hostname # see host name laptop
 5. set # set enviroment 
   5.1:
     set varname
@@ -33,3 +36,11 @@
 23. shutdown 
 24. CTRL + C #   stop the executiion of a command
 25. -help
+26. type NUL > name.file # creating a file
+27. copy <dir/file1> <to dir/file2>
+28. erase file # erase content in file.
+29. Compact compress file
+30. dir "\search key*" /s
+: \search in root
+/s search sub-folder
+*as a  wildcard -> tim nhung file co ca duoi file chi can trung ten .jpg , .txt
