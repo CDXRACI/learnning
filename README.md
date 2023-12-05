@@ -6,15 +6,11 @@ with the future, who know ?
 
 
 ## Planning
-`T11`: 
-- English: Finished basement English
-- C/C++: Middle
-- Python/Rust: Senior
-- Electronic: Middle
-- Script: Python script, xml script, batch script, shell script
-- Langue add: Command linux, window Command
-- structure of C/C++, MCU, linux
-
+`T12`: 
+- English
+- C/C++
+- Python/XML 
+- Autosar
 ## Authors
 
 - Facebook: [@Cao Dai Phuc](https://www.facebook.com/Caodaiphuc)
